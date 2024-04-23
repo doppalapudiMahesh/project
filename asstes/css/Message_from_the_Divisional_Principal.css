@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    margin-left: 55px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    background-color: white;
+}
+.elementary{
+    color: black;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.span{
+    color: black;
+    font-size: 18px;
+}
+.head{
+    font-size: 44px;
+    margin-top: 15px;
+    font-family: sans-serif;
+}
+.Catherine{
+    margin-left: 40px;
+    margin-top: 50px;
+    position: relative;   
+}
+.Catherine-img{
+    width: 210px;
+    height: 270px;
+}
+.name{
+    font-family: sans-serif;
+    position: absolute;
+    left: 230px;
+    top: 100px;
+}
+.pera-1{
+    font-size: 20px;
+    position: absolute;
+    left: 230px;
+    top: 127px;
+}
+.main-pera{
+    width: 70%;
+    font-size: 19px;
+    position: absolute;
+    top: 480px;
+}
+.sri{
+    margin-left: 990px;
+    margin-top: 150px;
+    width: 280px;
+    background-color: #2c2f74; 
+    font-size: larger; 
+    position: absolute;
+    top: 7px;
+    right: 40px;
+}
+.sri>ul>li{
+    padding: 15px;
+    list-style: none;
+}
+
+.co-cur{
+    background-color: orange;
+}
+.sri>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.sri>ul>li>a:hover{
+    text-decoration: underline;
+    
+}

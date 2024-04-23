@@ -1,0 +1,58 @@
+*{
+    border: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.Elementary{
+    font-size: 19px;
+    color: black;
+}
+.art{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.art-name{
+    font-size: 30px;
+    font-family: normal;
+}
+.pera{
+    font-size: 19px;
+    width: 75%;
+    font-family: sans;
+}
+.marquee{
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.sri{
+    margin-left: 990px;
+    margin-top: 150px;
+    width: 260px;
+    background-color: #2c2f74; 
+    font-size: larger; 
+    position: absolute;
+    top: 4px;
+    right: 30px;
+}
+.sri>ul>li{
+    padding: 15px;
+    list-style: none;
+}
+
+.co-cur{
+    background-color: orange;
+}
+.sri>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.sri>ul>li>a:hover{
+    text-decoration: underline;
+    
+}

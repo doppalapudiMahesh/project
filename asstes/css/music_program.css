@@ -1,0 +1,65 @@
+*{
+    border: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 30px;
+}
+.Elementary{
+    font-size: 19px;
+    color: black;
+}
+.music{
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-top: 18px;
+}
+.pera{
+    width: 75%;
+    font-size: 19px;
+}
+.exploring{
+    font-size: 19px;
+    position: relative;
+}
+.control{
+    position: absolute;
+    top: 15px;
+    left: 35px;
+}
+.marquee{
+    width: 70%;
+    margin-top: 300px;
+    margin-left: 20px;
+}
+.sri{
+    margin-left: 990px;
+    margin-top: 150px;
+    width: 260px;
+    background-color: #2c2f74; 
+    font-size: larger; 
+    position: absolute;
+    top: 4px;
+    right: 30px;
+}
+.sri>ul>li{
+    padding: 15px;
+    list-style: none;
+}
+
+.co-cur{
+    background-color: orange;
+}
+.sri>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.sri>ul>li>a:hover{
+    text-decoration: underline;
+    
+}
